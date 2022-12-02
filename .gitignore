@@ -4,10 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/telegabackend
 # testing
 /coverage
-
 # production
 /build
 
